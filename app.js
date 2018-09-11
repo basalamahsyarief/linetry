@@ -19,8 +19,8 @@ const pool = new Pool({
 
 
 const config = {
-    channelAccessToken: "JsTp25WVXUhk9IyFnJU+tTpKwAKLCUANnc6EX+LAw2m1XB0sGFCVTTUjQNYq9ofQz8GeCqxBC2BG2nsF2Pf2S5p8PCnyWi8dN4/iQiAi/oBMD/NQN2W5qnl4xOFMANjJUW3qtzUwCR0P2oVAY8IlvQdB04t89/1O/w1cDnyilFU=",
-    channelSecret: "712eef71436211aec7c24b02a94c9803",
+    channelAccessToken: "+5h0PVFgMbS0KkGJ2kZCrbTpt1B5JMWStQjXHJb7FKiGWmGmscHXMeK8a7N+ehx7mCrsmLKVrx/Hey+Au9SrSh9EuDBw1JEDdiVa9RBTK8AkMtwhKSMWyBymwDooeXrQW7pJrrxvfrLrwImpQFVltwdB04t89/1O/w1cDnyilFU=",
+    channelSecret: "1581b9f57b52bbc975965d122c1ab49a",
 };
 
 const client = new line.Client(config);
