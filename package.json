@@ -1,0 +1,26 @@
+{
+  "name": "dca-chatbot-cloud-sgp",
+  "version": "1.0.0",
+  "description": "cloud chatbot untuk event pilpres",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hynra/dca-chatbot-cloud-sgp.git"
+  },
+  "author": "github.com/hynra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hynra/dca-chatbot-cloud-sgp/issues"
+  },
+  "homepage": "https://github.com/hynra/dca-chatbot-cloud-sgp#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^6.2.1",
+    "commander": "^2.17.1",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "pg": "^7.4.3"
+  }
+}
